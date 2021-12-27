@@ -28,6 +28,8 @@ share/python-wheels/
 MANIFEST
 images
 metadata
+.images
+.metadata
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
