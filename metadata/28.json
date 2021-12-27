@@ -1,0 +1,31 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTFAP9ZrUC7TU6c4ngh6CEb8JaRbrxTVd1HPv5NHRZKta/28.png",
+    "tokenId": 28,
+    "name": "NFT_PROJECT 28",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "White"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "ears1"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hair6"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "m3"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "n1"
+        }
+    ]
+}

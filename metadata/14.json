@@ -1,0 +1,31 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTFAP9ZrUC7TU6c4ngh6CEb8JaRbrxTVd1HPv5NHRZKta/14.png",
+    "tokenId": 14,
+    "name": "NFT_PROJECT 14",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "ears3"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hair4"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "m6"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "n2"
+        }
+    ]
+}

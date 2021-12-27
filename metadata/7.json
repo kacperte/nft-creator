@@ -1,0 +1,31 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmTFAP9ZrUC7TU6c4ngh6CEb8JaRbrxTVd1HPv5NHRZKta/7.png",
+    "tokenId": 7,
+    "name": "NFT_PROJECT 7",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "ears2"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hair3"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "m1"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "n1"
+        }
+    ]
+}
