@@ -125,6 +125,9 @@ def add_token_id(list_of_images):
         i = i + 1
 
 
+add_token_id(all_images)
+
+
 # Get Trait Counts
 def show_trait_counts(faces_list, ears_lest, eyes_list, hairs_list, mouths_list, noses_list, list_of_images):
     face_count = {}
@@ -195,7 +198,7 @@ def generate_images(list_of_images):
         rgb_im.save("./images/" + file_name)
 
 
-# generate_images(all_images)
+generate_images(all_images)
 
 # Generate Metadata for all Traits
 if os.path.exists('metadata'):
@@ -211,7 +214,7 @@ def gen_metadata_all_traits(dir):
         json.dump(all_images, outfile, indent=4)
 
 
-# gen_metadata_all_traits(METADATA_FILE_NAME)
+gen_metadata_all_traits(METADATA_FILE_NAME)
 
 
 # Generate Metadata for each Image
